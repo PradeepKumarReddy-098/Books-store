@@ -1,0 +1,11 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    /*background-image: linear-gradient(to top,#262987,#170561,#03041d);*/
+    background-color: rgb(7, 7, 81);
+    background-position: cover;
+    background-size: cover;
+}

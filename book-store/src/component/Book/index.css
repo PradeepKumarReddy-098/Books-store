@@ -1,0 +1,28 @@
+.book-item{
+    width:300px;
+    margin: 20px;
+    border:2px solid beige;
+    padding:5px;
+    border-radius: 10px;
+    transition-duration: 2s;
+}
+
+.book-image{
+    width: 250px;
+    height: 300px;
+    position: relative;
+    left:18px;
+}
+
+.book-item:hover{
+    background-color:beige;
+    color: #000;
+}
+.link-item:hover{
+    color: #000;
+}
+
+.link-item{
+    color:white;
+    text-decoration: none;
+}
